@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            var executar = new Fluxo();
-            executar.Executar();
+            var executar = new FluxoComLista();
+            executar.ExecutarLista();
         }
     }
 }
